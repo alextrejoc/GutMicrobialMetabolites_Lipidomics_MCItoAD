@@ -1,0 +1,39 @@
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Editor directories and temporary files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Python cache and compiled files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === R session files and cache ===
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# === Data files (optional) ===
+# Keep clean CSV files but ignore raw or heavy formats
+data/raw/
+data/temp/
+*.rds
+*.rda
+*.sav
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# === Virtual environments (if accidentally included) ===
+venv/
+.env
+.venv/
+env/
