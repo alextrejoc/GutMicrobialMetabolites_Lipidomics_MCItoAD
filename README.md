@@ -1,9 +1,9 @@
-# Microbiota-Derived Metabolites and Lipidomics in MCI-to-Alzheimer’s Progression: Explainable Machine Learning Insights
+# Microbiota-Derived metabolites and lipidomic profiles as predictors of progression from mild cognitive impairment to Alzheimer's
  
 **Authors:** Trejo-Castro et al.
 **Corresponding author:** <juanemmanuel@tec.mx> 
 **Affiliation:** Tecnológico de Monterrey  
-**Year:** 2025
+**Year:** 2026
 
 ---
 
@@ -13,7 +13,7 @@ This repository contains R and Python scripts that were used to analyze the data
 The original data cannot be uploaded due to ADNI's privacy policy. However, the entire analysis can be reproduced using the supplementary file, the GitHub code, and applying for access within the database.
 
 > **Trejo-Castro et al. (2025).**  
-> *Microbiota-Derived Metabolites and Lipidomics in MCI-to-Alzheimer’s Progression: Explainable Machine Learning Insights*  
+> *Microbiota-Derived metabolites and lipidomic profiles as predictors of progression from mild cognitive impairment to Alzheimer's*  
 > *TBD*.  
 > DOI: [to be added once available].
 
@@ -25,8 +25,8 @@ The repository aims to promote the **transparency**, **reproducibility** and **r
 - **Code:** MIT License (see `LICENSE`)
 - **Data and figures:** Creative Commons Attribution 4.0 International (CC BY 4.0) (see `LICENSE-DATA`)
 
-© 2025 Trejo-Castro et al. This repository accompanies the article
-*Gut Microbial Metabolites and Lipidomics for the prediction of Mild Cognitive Impairment to Alzheimer's Disease.*
+© 2026 Trejo-Castro et al. This repository accompanies the article
+*Microbiota-Derived metabolites and lipidomic profiles as predictor of progression from mild cognitive impairment to Alzheimer's.*
 
 ---
 
@@ -39,6 +39,6 @@ All data generated and analyzed during this study are included in this published
 
 If you use this repository, please cite:
 
-> **Trejo-Castro et al. (2025).**  
-> **Microbiota-Derived Metabolites and Lipidomics in MCI-to-Alzheimer’s Progression: Explainable Machine Learning Insights.**  
+> **Trejo-Castro et al. (2026).**  
+> **Microbiota-Derived metabolites and lipidomic profiles as predictor of progression from mild cognitive impairment to Alzheimer's.**  
 > *TBD.* DOI: [to be added].
