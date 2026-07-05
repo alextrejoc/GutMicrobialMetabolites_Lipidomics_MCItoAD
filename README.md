@@ -26,7 +26,7 @@ The repository aims to promote the **transparency**, **reproducibility** and **r
 - **Data and figures:** Creative Commons Attribution 4.0 International (CC BY 4.0) (see `LICENSE-DATA`)
 
 © 2026 Trejo-Castro et al. This repository accompanies the article
-*Microbiota-Derived metabolites and lipidomic profiles as predictor of progression from mild cognitive impairment to Alzheimer's.*
+*Microbiota-Derived metabolites and lipidomic profiles as predictors of progression from mild cognitive impairment to Alzheimer's.*
 
 ---
 
@@ -40,5 +40,5 @@ All data generated and analyzed during this study are included in this published
 If you use this repository, please cite:
 
 > **Trejo-Castro et al. (2026).**  
-> **Microbiota-Derived metabolites and lipidomic profiles as predictor of progression from mild cognitive impairment to Alzheimer's.**  
+> **Microbiota-Derived metabolites and lipidomic profiles as predictors of progression from mild cognitive impairment to Alzheimer's.**  
 > *TBD.* DOI: [to be added].
